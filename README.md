@@ -21,7 +21,7 @@ This project predicts customer churn using machine learning models and presents 
 7. Dashboard Creation in Power BI
    
 # Dashboard Preview
-Dashboard ---> image/churn_dashboard.jpg
+![Dashboard](image/churn_dashboard.jpg)
 
 # Project Structure
 customer_churn_prediction/
